@@ -1,16 +1,25 @@
-## Hi there 👋
+# Arkadiusz Konior
 
-<!--
-**akonior/akonior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust Systems Engineer · Distributed Systems · Cardano · Zero-Knowledge
 
-Here are some ideas to get you started:
+Mathematics background. Focused on strongly-typed architectures, protocol-aware design and correctness-critical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+- 🔐 YubiKey-integrated Cardano wallet (CIP-1852, ED25519, hardware isolation)
+- 🧠 Exploring zero-knowledge systems and protocol-level design
+- ⚙️ Functional core / imperative shell architectures in Rust
+
+## Selected Work
+
+- 🧾 Project Catalyst-funded Cardano wallet
+- ⛓ Blockchain & ZK infrastructure (Rust)
+- 🏗 Large-scale distributed systems (Allegro)
+
+## Interests
+
+- Cardano ledger & Ouroboros
+- Formal methods & type-driven design
+- ZK systems (Plonk, Halo2, polynomial commitments)
+- Systems architecture
+
+👉 [Full CV](./CV.md)
